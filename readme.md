@@ -30,7 +30,7 @@ Front-End Web Developer.
 
 Back-End Web Developer.
 
-Full Stack Web Developer.
+Full Stack Web Developer..
 
 JavaScript Developer.
 
