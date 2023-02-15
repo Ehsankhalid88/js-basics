@@ -1,4 +1,4 @@
-# Assigenment 1
+# Assignment 1
 Answer1: Javascript code can be run outsid the browser in Node (which is an engine in Chrome embedded  inside the C++ program).
 
 
